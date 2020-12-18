@@ -1,0 +1,924 @@
+﻿
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ArgumentOutOfRangeException: El índice y la longitud deben hacer referencia a una ubicación en la cadena.
+Nombre del parámetro: length
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Cannot open Service Control Manager on computer '.'. This operation might require other privileges.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: Access is denied.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe assembly's progress.
+The file is located at C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+Excepción durante la fase de instalación.
+System.ComponentModel.Win32Exception: El servicio especificado ya existe
+
+Iniciando la fase de desinstalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de retroceso al estado original finalizó correctamente.
+
+La instalación con transacciones ha finalizado.
+
+Ejecutando una instalación de transacción.
+
+Iniciando la fase de instalación dentro de la instalación.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de instalación finalizó correctamente y la fase de confirmación está empezando.
+Consulte el contenido del archivo de registro sobre el progreso del ensamblado C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.
+El archivo está ubicado en C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.InstallLog.
+
+La fase de confirmación finalizó correctamente.
+
+La instalación con transacciones ha finalizado.

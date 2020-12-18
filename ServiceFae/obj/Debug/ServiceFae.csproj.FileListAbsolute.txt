@@ -1,0 +1,99 @@
+C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.config
+C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe
+C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\ServiceFae.pdb
+C:\Users\programador2\source\repos\ServiceFae\ServiceFae\obj\Debug\ServiceFae.ProjectInstaller.resources
+C:\Users\programador2\source\repos\ServiceFae\ServiceFae\obj\Debug\ServiceFae.ServiceFae.resources
+C:\Users\programador2\source\repos\ServiceFae\ServiceFae\obj\Debug\ServiceFae.csproj.GenerateResource.cache
+C:\Users\programador2\source\repos\ServiceFae\ServiceFae\obj\Debug\ServiceFae.csproj.CoreCompileInputs.cache
+C:\Users\programador2\source\repos\ServiceFae\ServiceFae\obj\Debug\ServiceFae.exe
+C:\Users\programador2\source\repos\ServiceFae\ServiceFae\obj\Debug\ServiceFae.pdb
+C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\Newtonsoft.Json.dll
+C:\Users\programador2\source\repos\ServiceFae\ServiceFae\bin\Debug\Newtonsoft.Json.xml
+C:\Users\programador2\source\repos\ServiceFae\ServiceFae\obj\Debug\ServiceFae.csproj.CopyComplete
+C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.config
+C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe
+C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.pdb
+C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\ServiceFae\ServiceFae\obj\Debug\ServiceFae.ProjectInstaller.resources
+C:\Users\USER\Desktop\ServiceFae\ServiceFae\obj\Debug\ServiceFae.ServiceFae.resources
+C:\Users\USER\Desktop\ServiceFae\ServiceFae\obj\Debug\ServiceFae.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ServiceFae\ServiceFae\obj\Debug\ServiceFae.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ServiceFae\ServiceFae\obj\Debug\ServiceFae.csproj.CopyComplete
+C:\Users\USER\Desktop\ServiceFae\ServiceFae\obj\Debug\ServiceFae.exe
+C:\Users\USER\Desktop\ServiceFae\ServiceFae\obj\Debug\ServiceFae.pdb
+C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\WinSCP.exe
+C:\Users\USER\Desktop\ServiceFae\ServiceFae\bin\Debug\WinSCPnet.dll
+D:\Trabajos\Visual Studio 2019\ServiceFae\ServiceFae\bin\Debug\WinSCP.exe
+D:\Trabajos\Visual Studio 2019\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.config
+D:\Trabajos\Visual Studio 2019\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe
+D:\Trabajos\Visual Studio 2019\ServiceFae\ServiceFae\bin\Debug\ServiceFae.pdb
+D:\Trabajos\Visual Studio 2019\ServiceFae\ServiceFae\bin\Debug\Newtonsoft.Json.dll
+D:\Trabajos\Visual Studio 2019\ServiceFae\ServiceFae\bin\Debug\WinSCPnet.dll
+D:\Trabajos\Visual Studio 2019\ServiceFae\ServiceFae\bin\Debug\Newtonsoft.Json.xml
+D:\Trabajos\Visual Studio 2019\ServiceFae\ServiceFae\obj\Debug\ServiceFae.ProjectInstaller.resources
+D:\Trabajos\Visual Studio 2019\ServiceFae\ServiceFae\obj\Debug\ServiceFae.ServiceFae.resources
+D:\Trabajos\Visual Studio 2019\ServiceFae\ServiceFae\obj\Debug\ServiceFae.csproj.GenerateResource.cache
+D:\Trabajos\Visual Studio 2019\ServiceFae\ServiceFae\obj\Debug\ServiceFae.csproj.CoreCompileInputs.cache
+D:\Trabajos\Visual Studio 2019\ServiceFae\ServiceFae\obj\Debug\ServiceFae.csproj.CopyComplete
+D:\Trabajos\Visual Studio 2019\ServiceFae\ServiceFae\obj\Debug\ServiceFae.exe
+D:\Trabajos\Visual Studio 2019\ServiceFae\ServiceFae\obj\Debug\ServiceFae.pdb
+C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\WinSCP.exe
+C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.config
+C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe
+C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ServiceFae.pdb
+C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\Newtonsoft.Json.dll
+C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\WinSCPnet.dll
+C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\Newtonsoft.Json.xml
+C:\Users\programador2\Desktop\ServiceFae\ServiceFae\obj\Debug\ServiceFae.ProjectInstaller.resources
+C:\Users\programador2\Desktop\ServiceFae\ServiceFae\obj\Debug\ServiceFae.ServiceFae.resources
+C:\Users\programador2\Desktop\ServiceFae\ServiceFae\obj\Debug\ServiceFae.csproj.GenerateResource.cache
+C:\Users\programador2\Desktop\ServiceFae\ServiceFae\obj\Debug\ServiceFae.csproj.CoreCompileInputs.cache
+C:\Users\programador2\Desktop\ServiceFae\ServiceFae\obj\Debug\ServiceFae.csproj.CopyComplete
+C:\Users\programador2\Desktop\ServiceFae\ServiceFae\obj\Debug\ServiceFae.exe
+C:\Users\programador2\Desktop\ServiceFae\ServiceFae\obj\Debug\ServiceFae.pdb
+C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ExcelNumberFormat.dll
+C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\System.IO.Packaging.dll
+C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\programador2\Desktop\ServiceFae\ServiceFae\bin\Debug\ExcelNumberFormat.xml
+C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\WinSCP.exe
+C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.config
+C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe
+C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ServiceFae.pdb
+C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ExcelNumberFormat.dll
+C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\Newtonsoft.Json.dll
+C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\System.IO.Packaging.dll
+C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\WinSCPnet.dll
+C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\ExcelNumberFormat.xml
+C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\bin\Debug\Newtonsoft.Json.xml
+C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\obj\Debug\ServiceFae.ProjectInstaller.resources
+C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\obj\Debug\ServiceFae.ServiceFae.resources
+C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\obj\Debug\ServiceFae.csproj.GenerateResource.cache
+C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\obj\Debug\ServiceFae.csproj.CoreCompileInputs.cache
+C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\obj\Debug\ServiceFae.csproj.CopyComplete
+C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\obj\Debug\ServiceFae.exe
+C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\obj\Debug\ServiceFae.pdb
+C:\Users\programador2\Desktop\Aldair\ServiceFae\ServiceFae\obj\Debug\ServiceFae.csprojAssemblyReference.cache
+E:\Sistemas\.NET\ServiceFae\ServiceFae\bin\Debug\WinSCP.exe
+E:\Sistemas\.NET\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe.config
+E:\Sistemas\.NET\ServiceFae\ServiceFae\bin\Debug\ServiceFae.exe
+E:\Sistemas\.NET\ServiceFae\ServiceFae\bin\Debug\ServiceFae.pdb
+E:\Sistemas\.NET\ServiceFae\ServiceFae\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Sistemas\.NET\ServiceFae\ServiceFae\bin\Debug\ExcelNumberFormat.dll
+E:\Sistemas\.NET\ServiceFae\ServiceFae\bin\Debug\Newtonsoft.Json.dll
+E:\Sistemas\.NET\ServiceFae\ServiceFae\bin\Debug\System.IO.Packaging.dll
+E:\Sistemas\.NET\ServiceFae\ServiceFae\bin\Debug\WinSCPnet.dll
+E:\Sistemas\.NET\ServiceFae\ServiceFae\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Sistemas\.NET\ServiceFae\ServiceFae\bin\Debug\ExcelNumberFormat.xml
+E:\Sistemas\.NET\ServiceFae\ServiceFae\bin\Debug\Newtonsoft.Json.xml
+E:\Sistemas\.NET\ServiceFae\ServiceFae\obj\Debug\ServiceFae.csprojAssemblyReference.cache
+E:\Sistemas\.NET\ServiceFae\ServiceFae\obj\Debug\ServiceFae.ProjectInstaller.resources
+E:\Sistemas\.NET\ServiceFae\ServiceFae\obj\Debug\ServiceFae.ServiceFae.resources
+E:\Sistemas\.NET\ServiceFae\ServiceFae\obj\Debug\ServiceFae.csproj.GenerateResource.cache
+E:\Sistemas\.NET\ServiceFae\ServiceFae\obj\Debug\ServiceFae.csproj.CoreCompileInputs.cache
+E:\Sistemas\.NET\ServiceFae\ServiceFae\obj\Debug\ServiceFae.csproj.CopyComplete
+E:\Sistemas\.NET\ServiceFae\ServiceFae\obj\Debug\ServiceFae.exe
+E:\Sistemas\.NET\ServiceFae\ServiceFae\obj\Debug\ServiceFae.pdb
